@@ -1,0 +1,5 @@
+{
+  "name": "Medical Image Classifier POC",
+  "description": "An attractive, beginner-friendly web app that allows users to upload an X-ray image and receive AI-powered diagnosis probabilities with visual explanations.",
+  "requestFramePermissions": []
+}
