@@ -65,7 +65,8 @@ Notes
 - The .pt file is your trained model. Keep it in the project folder.
 - Works on CPU by default. If you have a GPU, it will run faster.
      
-                                                                   <img width="2702" height="1390" alt="Screenshot 2025-08-24 222123" src="https://github.com/user-attachments/assets/7c6cb3cc-ff40-4a95-a8bb-e176836e5230" />
+The project interface it attractive and look like this - 
+<img width="2702" height="1390" alt="Screenshot 2025-08-24 222123" src="https://github.com/user-attachments/assets/9548835f-4a78-4c12-8ff1-4b11ea0b8eb7" />
 
 
 
