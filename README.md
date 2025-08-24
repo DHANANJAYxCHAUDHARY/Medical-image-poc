@@ -9,7 +9,7 @@ Features
 - Get predictions/results in a simple format.
 - Beginner-friendly setup (run locally).
 Getting Started
-1) Install Dependencies
+  ######1) Install Dependencies  
 First, install the required Python libraries:
 
 pip install -r requirements.txt
