@@ -64,6 +64,18 @@ Notes
 - If some libraries don’t install, install them one by one using pip install library-name.
 - The .pt file is your trained model. Keep it in the project folder.
 - Works on CPU by default. If you have a GPU, it will run faster.
+     
+                                                                   <img width="2702" height="1390" alt="Screenshot 2025-08-24 222123" src="https://github.com/user-attachments/assets/7c6cb3cc-ff40-4a95-a8bb-e176836e5230" />
 
-   
+
+
+
+
+if we put an image as a input in the above program -
+<img width="1967" height="1236" alt="Screenshot 2025-08-24 222324" src="https://github.com/user-attachments/assets/3b18bfea-93f5-4603-970a-aea242095e84" />
+
+
+Then the output from the project is just like -
+<img width="2672" height="1380" alt="Screenshot 2025-08-24 222455" src="https://github.com/user-attachments/assets/c29aa0e3-4945-4159-a2f5-ffbe1ee93154" />
+
 
